@@ -58,7 +58,26 @@ data_difference %>%
   qtm(.,fill = "year_2019")
 
 
+gg_2010 <- ggplot(data_difference,aes(x=year_2010))+
+  geom_histogram(color="black", fill="white")+
+  labs(title="global gender inequality in 2010", 
+       x="value", 
+       y="Frequency") 
 
+print(gg_2010)
 
+gg_2019 <- ggplot(data_difference,aes(x=year_2019))+
+  geom_histogram(color="black", fill="white")+
+  labs(title="global gender inequality in 2019", 
+       x="value", 
+       y="Frequency") 
 
-  
+print(gg_2019)
+
+gg_difference <- ggplot(data_difference,aes(x=difference))+
+  geom_histogram(color="black", fill="white")+
+  labs(title="the difference of global gender inequality between 2010 and 2019", 
+       x="value", 
+       y="Frequency") 
+
+print(gg_difference)  
