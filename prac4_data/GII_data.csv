@@ -1,0 +1,321 @@
+countryIsoCode,country,year,value
+AFG,Afghanistan,2010,0.707
+AFG,Afghanistan,2019,0.676
+AGO,Angola,2010,0.554
+AGO,Angola,2019,0.533
+ALB,Albania,2010,0.192
+ALB,Albania,2019,0.131
+ARE,United Arab Emirates,2010,0.177
+ARE,United Arab Emirates,2019,0.045
+ARG,Argentina,2010,0.372
+ARG,Argentina,2019,0.291
+ARM,Armenia,2010,0.346
+ARM,Armenia,2019,0.219
+AUS,Australia,2010,0.136
+AUS,Australia,2019,0.08
+AUT,Austria,2010,0.11
+AUT,Austria,2019,0.053
+AZE,Azerbaijan,2010,0.342
+AZE,Azerbaijan,2019,0.317
+BDI,Burundi,2010,0.535
+BDI,Burundi,2019,0.499
+BEL,Belgium,2010,0.092
+BEL,Belgium,2019,0.048
+BEN,Benin,2010,0.636
+BEN,Benin,2019,0.652
+BFA,Burkina Faso,2010,0.602
+BFA,Burkina Faso,2019,0.594
+BGD,Bangladesh,2010,0.602
+BGD,Bangladesh,2019,0.521
+BGR,Bulgaria,2010,0.229
+BGR,Bulgaria,2019,0.205
+BHR,Bahrain,2010,0.259
+BHR,Bahrain,2019,0.194
+BHS,Bahamas,2010,0.369
+BHS,Bahamas,2019,0.335
+BIH,Bosnia and Herzegovina,2010,0.215
+BIH,Bosnia and Herzegovina,2019,0.146
+BLR,Belarus,2010,0.148
+BLR,Belarus,2019,0.098
+BLZ,Belize,2010,0.407
+BLZ,Belize,2019,0.46
+BOL,Bolivia (Plurinational State of),2010,0.477
+BOL,Bolivia (Plurinational State of),2019,0.426
+BRA,Brazil,2010,0.448
+BRA,Brazil,2019,0.396
+BRB,Barbados,2010,0.35
+BRB,Barbados,2019,0.309
+BRN,Brunei Darussalam,2019,0.285
+BTN,Bhutan,2010,0.476
+BTN,Bhutan,2019,0.332
+BWA,Botswana,2010,0.502
+BWA,Botswana,2019,0.458
+CAN,Canada,2010,0.139
+CAN,Canada,2019,0.075
+CHE,Switzerland,2010,0.057
+CHE,Switzerland,2019,0.018
+CHL,Chile,2010,0.351
+CHL,Chile,2019,0.214
+CHN,China,2010,0.247
+CHN,China,2019,0.187
+CIV,Côte d'Ivoire,2010,0.639
+CIV,Côte d'Ivoire,2019,0.623
+CMR,Cameroon,2010,0.62
+CMR,Cameroon,2019,0.564
+COD,Congo (Democratic Republic of the),2010,0.66
+COD,Congo (Democratic Republic of the),2019,0.618
+COG,Congo,2010,0.618
+COG,Congo,2019,0.589
+COL,Colombia,2010,0.452
+COL,Colombia,2019,0.408
+CPV,Cabo Verde,2019,0.353
+CRI,Costa Rica,2010,0.318
+CRI,Costa Rica,2019,0.239
+CUB,Cuba,2010,0.333
+CUB,Cuba,2019,0.307
+CYP,Cyprus,2010,0.191
+CYP,Cyprus,2019,0.235
+CZE,Czechia,2010,0.139
+CZE,Czechia,2019,0.124
+DEU,Germany,2010,0.096
+DEU,Germany,2019,0.079
+DNK,Denmark,2010,0.049
+DNK,Denmark,2019,0.016
+DOM,Dominican Republic,2010,0.488
+DOM,Dominican Republic,2019,0.448
+DZA,Algeria,2010,0.517
+DZA,Algeria,2019,0.397
+ECU,Ecuador,2010,0.431
+ECU,Ecuador,2019,0.387
+EGY,Egypt,2010,0.547
+EGY,Egypt,2019,0.418
+ESP,Spain,2010,0.105
+ESP,Spain,2019,0.056
+EST,Estonia,2010,0.159
+EST,Estonia,2019,0.092
+ETH,Ethiopia,2010,0.599
+ETH,Ethiopia,2019,0.506
+FIN,Finland,2010,0.071
+FIN,Finland,2019,0.031
+FJI,Fiji,2010,0.405
+FJI,Fiji,2019,0.337
+FRA,France,2010,0.129
+FRA,France,2019,0.086
+GAB,Gabon,2010,0.52
+GAB,Gabon,2019,0.527
+GBR,United Kingdom,2010,0.179
+GBR,United Kingdom,2019,0.106
+GEO,Georgia,2010,0.432
+GEO,Georgia,2019,0.3
+GHA,Ghana,2010,0.57
+GHA,Ghana,2019,0.517
+GIN,Guinea,2019,0.628
+GMB,Gambia,2010,0.66
+GMB,Gambia,2019,0.587
+GNB,Guinea-Bissau,2019,0.635
+GRC,Greece,2010,0.153
+GRC,Greece,2019,0.122
+GTM,Guatemala,2010,0.539
+GTM,Guatemala,2019,0.495
+GUY,Guyana,2019,0.433
+HND,Honduras,2010,0.467
+HND,Honduras,2019,0.43
+HRV,Croatia,2010,0.136
+HRV,Croatia,2019,0.119
+HTI,Haiti,2010,0.608
+HTI,Haiti,2019,0.624
+HUN,Hungary,2010,0.251
+HUN,Hungary,2019,0.239
+IDN,Indonesia,2010,0.497
+IDN,Indonesia,2019,0.45
+IND,India,2010,0.563
+IND,India,2019,0.476
+IRL,Ireland,2010,0.163
+IRL,Ireland,2019,0.079
+IRN,Iran (Islamic Republic of),2010,0.546
+IRN,Iran (Islamic Republic of),2019,0.464
+IRQ,Iraq,2010,0.602
+IRQ,Iraq,2019,0.572
+ISL,Iceland,2010,0.092
+ISL,Iceland,2019,0.051
+ISR,Israel,2010,0.145
+ISR,Israel,2019,0.098
+ITA,Italy,2010,0.123
+ITA,Italy,2019,0.054
+JAM,Jamaica,2010,0.428
+JAM,Jamaica,2019,0.376
+JOR,Jordan,2010,0.487
+JOR,Jordan,2019,0.45
+JPN,Japan,2010,0.117
+JPN,Japan,2019,0.083
+KAZ,Kazakhstan,2010,0.266
+KAZ,Kazakhstan,2019,0.19
+KEN,Kenya,2010,0.603
+KEN,Kenya,2019,0.541
+KGZ,Kyrgyzstan,2010,0.363
+KGZ,Kyrgyzstan,2019,0.354
+KHM,Cambodia,2010,0.514
+KHM,Cambodia,2019,0.492
+KOR,Korea (Republic of),2010,0.095
+KOR,Korea (Republic of),2019,0.075
+KWT,Kuwait,2010,0.209
+KWT,Kuwait,2019,0.225
+LAO,Lao People's Democratic Republic,2010,0.533
+LAO,Lao People's Democratic Republic,2019,0.472
+LBN,Lebanon,2010,0.432
+LBN,Lebanon,2019,0.386
+LBR,Liberia,2010,0.66
+LBR,Liberia,2019,0.653
+LBY,Libya,2010,0.286
+LBY,Libya,2019,0.269
+LCA,Saint Lucia,2010,0.363
+LCA,Saint Lucia,2019,0.355
+LKA,Sri Lanka,2010,0.415
+LKA,Sri Lanka,2019,0.369
+LSO,Lesotho,2010,0.59
+LSO,Lesotho,2019,0.57
+LTU,Lithuania,2010,0.149
+LTU,Lithuania,2019,0.122
+LUX,Luxembourg,2010,0.11
+LUX,Luxembourg,2019,0.059
+LVA,Latvia,2010,0.229
+LVA,Latvia,2019,0.166
+MAR,Morocco,2010,0.549
+MAR,Morocco,2019,0.448
+MDA,Moldova (Republic of),2010,0.24
+MDA,Moldova (Republic of),2019,0.185
+MDG,Madagascar,2010,0.607
+MDG,Madagascar,2019,0.575
+MDV,Maldives,2010,0.402
+MDV,Maldives,2019,0.336
+MEX,Mexico,2010,0.417
+MEX,Mexico,2019,0.36
+MKD,North Macedonia,2010,0.172
+MKD,North Macedonia,2019,0.134
+MLI,Mali,2010,0.667
+MLI,Mali,2019,0.659
+MLT,Malta,2010,0.264
+MLT,Malta,2019,0.162
+MMR,Myanmar,2019,0.497
+MNE,Montenegro,2010,0.21
+MNE,Montenegro,2019,0.118
+MNG,Mongolia,2010,0.415
+MNG,Mongolia,2019,0.311
+MOZ,Mozambique,2010,0.542
+MOZ,Mozambique,2019,0.495
+MRT,Mauritania,2010,0.638
+MRT,Mauritania,2019,0.602
+MUS,Mauritius,2010,0.373
+MUS,Mauritius,2019,0.328
+MWI,Malawi,2010,0.612
+MWI,Malawi,2019,0.579
+MYS,Malaysia,2010,0.264
+MYS,Malaysia,2019,0.201
+NAM,Namibia,2010,0.538
+NAM,Namibia,2019,0.454
+NER,Niger,2010,0.692
+NER,Niger,2019,0.626
+NGA,Nigeria,2010,0.67
+NGA,Nigeria,2019,0.694
+NIC,Nicaragua,2010,0.47
+NIC,Nicaragua,2019,0.408
+NLD,Netherlands,2010,0.052
+NLD,Netherlands,2019,0.028
+NOR,Norway,2010,0.07
+NOR,Norway,2019,0.016
+NPL,Nepal,2010,0.527
+NPL,Nepal,2019,0.502
+NZL,New Zealand,2010,0.166
+NZL,New Zealand,2019,0.1
+OMN,Oman,2010,0.34
+OMN,Oman,2019,0.261
+PAK,Pakistan,2010,0.593
+PAK,Pakistan,2019,0.542
+PAN,Panama,2010,0.483
+PAN,Panama,2019,0.395
+PER,Peru,2010,0.401
+PER,Peru,2019,0.383
+PHL,Philippines,2010,0.443
+PHL,Philippines,2019,0.392
+PNG,Papua New Guinea,2010,0.682
+PNG,Papua New Guinea,2019,0.816
+POL,Poland,2010,0.171
+POL,Poland,2019,0.111
+PRT,Portugal,2010,0.127
+PRT,Portugal,2019,0.078
+PRY,Paraguay,2010,0.484
+PRY,Paraguay,2019,0.435
+QAT,Qatar,2010,0.669
+QAT,Qatar,2019,0.167
+ROU,Romania,2010,0.343
+ROU,Romania,2019,0.232
+RUS,Russian Federation,2010,0.275
+RUS,Russian Federation,2019,0.164
+RWA,Rwanda,2010,0.453
+RWA,Rwanda,2019,0.411
+SAU,Saudi Arabia,2010,0.746
+SAU,Saudi Arabia,2019,0.278
+SDN,Sudan,2010,0.614
+SDN,Sudan,2019,0.561
+SEN,Senegal,2010,0.576
+SEN,Senegal,2019,0.51
+SGP,Singapore,2010,0.085
+SGP,Singapore,2019,0.05
+SLE,Sierra Leone,2010,0.652
+SLE,Sierra Leone,2019,0.615
+SLV,El Salvador,2010,0.396
+SLV,El Salvador,2019,0.358
+SRB,Serbia,2010,0.207
+SRB,Serbia,2019,0.118
+SUR,Suriname,2010,0.513
+SUR,Suriname,2019,0.406
+SVK,Slovakia,2010,0.203
+SVK,Slovakia,2019,0.194
+SVN,Slovenia,2010,0.128
+SVN,Slovenia,2019,0.07
+SWE,Sweden,2010,0.051
+SWE,Sweden,2019,0.023
+SWZ,Eswatini (Kingdom of),2019,0.521
+SYR,Syrian Arab Republic,2010,0.493
+SYR,Syrian Arab Republic,2019,0.487
+TCD,Chad,2019,0.7
+TGO,Togo,2010,0.627
+TGO,Togo,2019,0.584
+THA,Thailand,2010,0.365
+THA,Thailand,2019,0.316
+TJK,Tajikistan,2010,0.369
+TJK,Tajikistan,2019,0.291
+TLS,Timor-Leste,2010,0.53
+TLS,Timor-Leste,2019,0.42
+TON,Tonga,2019,0.43
+TTO,Trinidad and Tobago,2010,0.335
+TTO,Trinidad and Tobago,2019,0.269
+TUN,Tunisia,2010,0.287
+TUN,Tunisia,2019,0.262
+TUR,Turkey,2010,0.416
+TUR,Turkey,2019,0.277
+TZA,Tanzania (United Republic of),2010,0.564
+TZA,Tanzania (United Republic of),2019,0.52
+UGA,Uganda,2010,0.549
+UGA,Uganda,2019,0.528
+UKR,Ukraine,2010,0.296
+UKR,Ukraine,2019,0.158
+URY,Uruguay,2010,0.324
+URY,Uruguay,2019,0.267
+USA,United States,2010,0.244
+USA,United States,2019,0.192
+UZB,Uzbekistan,2010,0.271
+UZB,Uzbekistan,2019,0.251
+VEN,Venezuela (Bolivarian Republic of),2010,0.489
+VEN,Venezuela (Bolivarian Republic of),2019,0.497
+VNM,Viet Nam,2010,0.363
+VNM,Viet Nam,2019,0.391
+WSM,Samoa,2019,0.432
+YEM,Yemen,2010,0.792
+YEM,Yemen,2019,0.789
+ZAF,South Africa,2010,0.456
+ZAF,South Africa,2019,0.408
+ZMB,Zambia,2010,0.58
+ZMB,Zambia,2019,0.521
+ZWE,Zimbabwe,2010,0.594
+ZWE,Zimbabwe,2019,0.527
