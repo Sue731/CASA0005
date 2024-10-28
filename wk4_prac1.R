@@ -38,6 +38,25 @@ combined_data <- world_scale%>%
   clean_names()%>%
   left_join(GII_data,by = "country")
 
+#分开两个年份
+combined_data_wide <- combined_data%>%
+  drop_na(value)%>%
+  pivot_wider(names_from = year,
+               values_from =value, 
+               names_prefix="year_")
+    
+#计算差值
+data_difference <- combined_data_wide%>%
+  mutate(difference = year_2019 - year_2010,na.rm=TRUE)
+
+tmap_mode("plot")
+data_difference %>%
+  qtm(.,fill = "year_2010")
+
+tmap_mode("plot")
+data_difference %>%
+  qtm(.,fill = "year_2019")
+
 
 
 
